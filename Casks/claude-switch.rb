@@ -1,6 +1,6 @@
 cask "claude-switch" do
-  version "0.1.0"
-  sha256 "5637aad3bce8d9d147b4429c98fd5ae2c667bb9445ceecac641b59e11edf61b8"
+  version "0.1.1"
+  sha256 "94e6eb72c910ac3fc3d85484deebc6226657370f85846de8b4e485389202c33e"
 
   url "https://github.com/jafar-albadarneh/claude-switch/releases/download/v#{version}/ClaudeSwitch-#{version}.zip"
   name "Claude Switch"
